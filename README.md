@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![JasonChen's Github Stats](https://github-readme-stats.vercel.app/api?username=JasonChen9&count_private=true&show_icons=true&theme=radical)
+![Jason's Github Stats](https://github-readme-stats.vercel.app/api?username=JasonChen9&count_private=true&show_icons=true&theme=radical)
+
+
+
+| <a href="https://github.com/JasonChen9/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JasonChen9&show_icons=true&theme=radical&hide_border=true" alt="Jason's github stats" /></a> | <a href="https://github.com/JasonChen9/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonChen9&layout=compact&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 - 📫 How to reach me:  Email gy.xiang@stu.pku.edu.cn 
