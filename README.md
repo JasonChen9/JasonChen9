@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| <a href="https://github.com/JasonChen9/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JasonChen9&show_icons=true&theme=buefy&hide_border=true" alt="Jason's github stats" /></a> | <a href="https://github.com/JasonChen9/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonChen9&layout=compact&theme=buefy&hide_border=true" /></a> |
+
+| <a href="https://github.com/JasonChen9/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JasonChen9&show_icons=true&count_private=true&theme=buefy&hide_border=true" alt="Jason's github stats" /></a> | <a href="https://github.com/JasonChen9/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonChen9&layout=compact&count_private=true&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
