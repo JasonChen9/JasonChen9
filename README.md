@@ -5,7 +5,7 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily: **python**, **cutlass**, **cuda**
 - 📫 How to reach me:  Email gy.xiang1999@gmail.com 
-- 🧑‍💻 company I used to work at：
+- 🧑‍💻 Company I used to work at：
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg" alt="microsoft" width="110" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/amd/amd-ar21.svg" alt="amd" width="110" height="55"/>
