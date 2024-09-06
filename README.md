@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 | <a href="https://github.com/JasonChen9/JasonChen9" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=JasonChen9&show_icons=true&count_private=true&theme=buefy&hide_border=true" alt="Jason's github stats" /></a> | <a href="https://github.com/JasonChen9/JasonChen9"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonChen9&layout=compact&count_private=true&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-![](https://raw.githubusercontent.com/JasonChen9/JasonChen9/main/assets/github-contribution-grid-snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 - 📫 How to reach me:  Email gy.xiang@stu.pku.edu.cn 
