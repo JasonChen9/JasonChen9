@@ -10,13 +10,24 @@ I am a Ph.D. student in **Data Science and Analytics** at The Hong Kong Universi
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="./profile/stats-dark.svg"
+      srcset="./profile/stats-dark.svg?v=2"
     />
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="./profile/stats-light.svg"
+      srcset="./profile/stats-light.svg?v=2"
     />
-    <img alt="Guangyu Xiang's GitHub statistics" src="./profile/stats-light.svg" />
+    <img height="165" alt="Guangyu Xiang's GitHub statistics" src="./profile/stats-light.svg?v=2" />
+  </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./profile/streak-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="./profile/streak-light.svg"
+    />
+    <img height="165" alt="Guangyu Xiang's GitHub contribution streak" src="./profile/streak-light.svg" />
   </picture>
 </p>
 

@@ -26,7 +26,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&hide_rank=true&card_width=495&theme=default&custom_title=Guangyu%27s%20GitHub%20Stats
           path: profile/stats-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PROFILE_STATS_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
       - name: Generate dark statistics card
@@ -35,8 +35,22 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&hide_rank=true&card_width=495&theme=github_dark&custom_title=Guangyu%27s%20GitHub%20Stats
           path: profile/stats-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PROFILE_STATS_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
+
+      - name: Generate light contribution streak card
+        uses: DenverCoder1/github-readme-streak-stats@51cfb8879073b4c016ce6286016de0b14d179077
+        with:
+          options: user=${{ github.repository_owner }}&theme=default&hide_border=true
+          path: profile/streak-light.svg
+          token: ${{ secrets.PROFILE_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Generate dark contribution streak card
+        uses: DenverCoder1/github-readme-streak-stats@51cfb8879073b4c016ce6286016de0b14d179077
+        with:
+          options: user=${{ github.repository_owner }}&theme=dark&hide_border=true
+          path: profile/streak-dark.svg
+          token: ${{ secrets.PROFILE_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Commit updated cards
         run: |
