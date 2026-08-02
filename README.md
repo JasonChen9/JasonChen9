@@ -6,17 +6,19 @@ I am a Ph.D. student in **Data Science and Analytics** at The Hong Kong Universi
 
 ## GitHub Stats
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./profile/stats-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="./profile/stats-light.svg"
-  />
-  <img alt="Guangyu Xiang's GitHub statistics" src="./profile/stats-light.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./profile/stats-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="./profile/stats-light.svg"
+    />
+    <img alt="Guangyu Xiang's GitHub statistics" src="./profile/stats-light.svg" />
+  </picture>
+</p>
 
 <picture>
   <source

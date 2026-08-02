@@ -24,7 +24,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&hide_rank=true&theme=default
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&hide_rank=true&card_width=495&theme=default&custom_title=Guangyu%27s%20GitHub%20Stats
           path: profile/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
@@ -33,7 +33,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&hide_rank=true&theme=github_dark
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&hide_rank=true&card_width=495&theme=github_dark&custom_title=Guangyu%27s%20GitHub%20Stats
           path: profile/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
